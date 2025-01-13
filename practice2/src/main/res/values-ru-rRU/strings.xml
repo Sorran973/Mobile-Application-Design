@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Практика 2</string>
+    <string name="blue">Голубой</string>
+    <string name="red">Красный</string>
+    <string name="black">Черный</string>
+    <string name="white">Белый</string>
+    <string name="locale">РУ</string>
+</resources>
