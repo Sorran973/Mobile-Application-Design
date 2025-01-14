@@ -28,9 +28,8 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class MainActivity extends AppCompatActivity {
-//    private final static String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?q=Moscow&appid=f9ddb58762da71b8e2fd9747056ea739&lang=ru&units=metric";
     private final static String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?";
-    private final static String WEATHER_API_KEY = "f9ddb58762da71b8e2fd9747056ea739";
+    private final static String WEATHER_API_KEY = "";
     OkHttpClient okHttpClient;
     Button buttonSearchWeather;
     TextView textView;
